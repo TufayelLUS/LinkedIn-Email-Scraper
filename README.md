@@ -1,7 +1,7 @@
 # LinkedIn Email Scraper
 A python class that can scrape LinkedIn profiles for emails. Developed by Tufayel_LUS
 
-# Prerequites
+# Prerequisites
 1. Python any version
 2. Installation of below module using command
 <pre>pip install requests</pre>
