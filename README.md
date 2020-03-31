@@ -10,6 +10,6 @@ A python class that can scrape LinkedIn profiles for emails. Developed by Tufaye
 # Usage
 Refer to <a href='https://github.com/TufayelLUS/LinkedIn-Email-Scraper/blob/master/demo.py'>demo.py</a> for usage reference. You can modify it as you like. You can import the linkedin.py class file or modify it as per your needs.
 
-# Example Code For Guest Login
+# Example Code For Guest Access
 <pre>client = LinkedIn()<br>
 client.singleScan(url_to_profile)</pre>
